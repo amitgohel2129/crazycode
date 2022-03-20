@@ -1,5 +1,5 @@
 from turtle import *
-color('red')
+color('pink')
 begin_fill()
 pensize(3)
 left(50)
